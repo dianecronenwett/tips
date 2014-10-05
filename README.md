@@ -3,6 +3,7 @@ tips
 
 Practice tip calculator for Swift
 1 hour to complete
+<<<<<<< Updated upstream
 
  * [x] Required: User can click into the text field and it pulls up the keyword.
  * [x] Required: Keyboard is a decimal pad.
@@ -13,3 +14,9 @@ Practice tip calculator for Swift
 
 
  
+=======
+Completed the task required to create a tip calculator calculating 18, 20, 25% tips
+
+
+
+>>>>>>> Stashed changes
