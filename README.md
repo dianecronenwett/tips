@@ -10,13 +10,8 @@ Practice tip calculator for Swift
  * [x] Required: User can click into an area outside of the text area and the keyboard slides down.
  * [x] Required: User can toggle between 18, 20, and 25% to calculate the tip
 
-![Image](tips/tips/tips_demo.gif)
+![Image](tips_demo.gif)
 
 
  
-=======
-Completed the task required to create a tip calculator calculating 18, 20, 25% tips
 
-
-
->>>>>>> Stashed changes
