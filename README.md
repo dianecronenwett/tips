@@ -3,7 +3,7 @@ tips
 
 Practice tip calculator for Swift
 1 hour to complete
-<<<<<<< Updated upstream
+
 
  * [x] Required: User can click into the text field and it pulls up the keyword.
  * [x] Required: Keyboard is a decimal pad.
